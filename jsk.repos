@@ -1,0 +1,5 @@
+repositories:
+ jsk_pr2eus:
+   type: git
+   url: https://github.com/jsk-ros-pkg/jsk_pr2eus.git
+   version: master
