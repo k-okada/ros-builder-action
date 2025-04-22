@@ -9,6 +9,11 @@ prbt_ikfast_manipulator_plugin:
 mongodb:
   ubuntu: []
 
+# since gazebon is not available in latest ubuntu repositories, we do not have gazebo_ros package
+gazebo_ros:
+  debian: []
+  ubuntu: []
+
 libfltk-dev:
   debian:
     bookworm: [libfltk1.3-dev]
