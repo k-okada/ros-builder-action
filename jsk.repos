@@ -3,3 +3,7 @@ repositories:
    type: git
    url: https://github.com/jsk-ros-pkg/jsk_pr2eus.git
    version: master
+ jsk_model_tools:
+   type: git
+   url: https://github.com/jsk-ros-pkg/jsk_model_tools.git
+   version: master
