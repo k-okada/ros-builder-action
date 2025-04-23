@@ -18,6 +18,10 @@ gazebo_plugins:
   debian: []
   ubuntu: []
 
+pr2_gazebo_plugins:
+  debian: []
+  ubuntu: []
+
 gazebo:
   debian: []
   ubuntu: []
