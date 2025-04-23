@@ -94,6 +94,7 @@ jobs:
       SKIP_EXISTING: ${{ inputs.SKIP_EXISTING }}
       CONTINUE_ON_ERROR: ${{ inputs.CONTINUE_ON_ERROR }}
       INSTALL_TO_CHROOT: ${{ inputs.INSTALL_TO_CHROOT }}
+      EXTRA_ROSDEP_SOURCES: 'rosdep.yaml'
 
   stage-2:
     needs: stage-1
