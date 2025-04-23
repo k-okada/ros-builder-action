@@ -5,8 +5,8 @@ repositories:
    version: ros-o
  jsk_model_tools:
    type: git
-   url: https://github.com/jsk-ros-pkg/jsk_model_tools.git
-   version: master
+   url: https://github.com/k-okada/jsk_model_tools.git
+   version: ros-o
  pr2_simulator:
    type: git
    url: https://github.com/PR2/pr2_simulator.git
