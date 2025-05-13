@@ -1,0 +1,9 @@
+repositories:
+  robot_pose_ekf:
+    type: git
+    url: https://github.com/ros-planning/robot_pose_ekf.git
+    version: master
+  bfl:
+    type: git
+    url: https://github.com/ros-gbp/bfl-release.git
+    version: release/melodic/bfl

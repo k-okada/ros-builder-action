@@ -1154,7 +1154,6 @@ known_failures:
     - pr2_robot/pr2_ethercat
     - people/people_tracking_filter  # missing bfl?
     - people/leg_detector
-    - robot_pose_ekf  # missing bfl?
     - moveit_calibration/*  # missing bfl?
   "arm64/*":
     - ros_realtime/rosrt  # multiple definition of boost::atomic_signal_fence
